@@ -28,5 +28,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ali-mansour&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-ali-mansour&theme=onedark&show_icons=true&locale=en" alt="dev-ali-mansour" /> &nbsp
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-ali-mansour&theme=onedark&show_icons=true&locale=en" alt="dev-ali-mansour" /> &nbsp&nbsp
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-ali-mansour&theme=onedark" alt="dev-ali-mansour" /></p>
