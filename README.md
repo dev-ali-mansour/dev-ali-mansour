@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/dev_ali_mansour" target="blank"><img src="https://img.shields.io/twitter/follow/dev_ali_mansour?logo=twitter&style=for-the-badge" alt="dev_ali_mansour" /></a> </p>
 
-- 📝 I regularly write articles on [https://medium.com/@ali-mansour](https://medium.com/@ali-mansour?target=_blank)
+- 📝 I regularly write articles on [https://medium.com/@ali-mansour](https://medium.com/@ali-mansour)
 
 - 💬 Ask me about **Android SDK, JAVA, Kotlin, Jetpack Compose, Object Oriented Programming (OOP), Data Structures, Design Patterns (MVC, MVP, MVVM), Google Android’s design principles, Firebase, RXJava, Coroutines, Threading, Storage, Room Database, Retrofit, XML, JSON, RESTFUL API, Dagger 2, Hilt, Google Maps, Location Tracking, Lambda Expressions, Data Binding, Git, GitHub, Navigation architecture, Unit Testing, Android Testing, Agile, SCRUM, Jira, and Android Studio**
 
