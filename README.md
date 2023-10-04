@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-ali-mansour&label=Profile%20views&color=0e75b6&style=flat" alt="dev-ali-mansour" /> </p>
   
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-ali-mansour&theme=onedark" alt="dev-ali-mansour"/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-ali-mansour&theme=onedark" alt="dev-ali-mansour"/><br/><br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-ali-mansour&theme=onedark&show_icons=true&locale=en" alt="dev-ali-mansour" />
 </p>
 
