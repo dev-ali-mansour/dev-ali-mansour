@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-ali-mansour&label=Profile%20views&color=0e75b6&style=flat" alt="dev-ali-mansour" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dev-ali-mansour&theme=onedark&row=1&column=6&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dev-ali-mansour&theme=onedark&row=2&column=5&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <a href="https://twitter.com/dev_ali_mansour" target="blank"><img src="https://img.shields.io/twitter/follow/dev_ali_mansour?logo=twitter&style=for-the-badge" alt="dev_ali_mansour" /></a> </p>
 
