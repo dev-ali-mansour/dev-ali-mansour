@@ -25,6 +25,6 @@
 <a href="https://fb.com/dev.ali.mansour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dev.ali.mansour" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/9603203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9603203" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCpaf0uB9V8I_4Ac1DRmNzGQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Coding With Ali" height="30" width="40" /></a>
-  <a href="https://twitter.com/dev_ali_mansour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev_ali_mansour" height="30" width="40" /></a>
+  <a href="https://x.com/dev_ali_mansour" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/X_logo_2023_original.svg/300px-X_logo_2023_original.svg.png?20230728155658" alt="dev_ali_mansour" height="30" width="40" /></a>
 </p>
 
