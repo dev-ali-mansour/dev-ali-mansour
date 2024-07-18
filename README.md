@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-ali-mansour&label=Profile%20views&color=0e75b6&style=flat" alt="dev-ali-mansour" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dev-ali-mansour&theme=onedark&row=1&column=10&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dev-ali-mansour&theme=onedark&row=1&column=10&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dev-ali-mansour&card_height=320&card_width=320&theme=onedark)](https://git.io/streak-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-ali-mansour&card_width=320&theme=onedark&show_icons=true&locale=en&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ali-mansour&card_width=250&theme=onedark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
