@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **dev.ali.mansour@gmail.com**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-ali-mansour&label=Profile%20views&color=0e75b6&style=flat" alt="dev-ali-mansour" /> </p>
+![](https://komarev.com/ghpvc/?username=dev-ali-mansour&abbreviated=true)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=dev-ali-mansour&theme=onedark&row=1&column=10&margin-w=10&margin-h=10&disable_animations=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dev-ali-mansour&card_height=195&card_width=320&theme=onedark&disable_animations=true)
