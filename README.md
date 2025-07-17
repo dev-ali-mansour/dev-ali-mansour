@@ -1,7 +1,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=dev-ali-mansour&theme=onedark&row=1&column=10&margin-w=10&margin-h=10&disable_animations=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dev-ali-mansour&card_height=195&card_width=320&theme=onedark&disable_animations=true)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-ali-mansour&card_width=320&theme=onedark&show_icons=true&locale=en&disable_animations=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ali-mansour&card_width=320&theme=onedark&langs_count=6&layout=compact&display_format=time&&disable_animations=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ali-mansour&card_width=320&theme=onedark&langs_count=10&layout=compact&display_format=time&&disable_animations=true)
 
 ![](https://komarev.com/ghpvc/?username=dev-ali-mansour&abbreviated=true)
 
